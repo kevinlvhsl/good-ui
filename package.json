@@ -1,0 +1,22 @@
+{
+  "name": "good-ui",
+  "version": "0.0.2",
+  "description": "一个简单ui库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlvhsl/good-ui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "kevinlvhsl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlvhsl/good-ui/issues"
+  },
+  "homepage": "https://github.com/kevinlvhsl/good-ui#readme"
+}
