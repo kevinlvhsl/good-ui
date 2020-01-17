@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<title>good-ui demo</title>
+<script src="https://unpkg.com/vue"></script>
+<script src="./good-ui.umd.js"></script>
+
+<link rel="stylesheet" href="./good-ui.css">
+
+
+<div id="app">
+  <demo></demo>
+</div>
+
+<script>
+new Vue({
+  components: {
+    demo: good-ui
+  }
+}).$mount('#app')
+</script>
